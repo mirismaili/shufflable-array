@@ -2,6 +2,8 @@
 
 > Extended javascript native `Array` to add a `shuffle()` method.
 
+This doesn't modify `Array.prototype`.
+
 [![npm (scoped)](https://img.shields.io/npm/v/shufflable-array.svg)](https://npmjs.com/package/shufflable-array)
 [![install size](https://packagephobia.now.sh/badge?p=shufflable-array)](https://packagephobia.now.sh/result?p=shufflable-array)
 [![downloads](https://img.shields.io/npm/dt/shufflable-array.svg)](https://npmjs.com/package/shufflable-array) <br>

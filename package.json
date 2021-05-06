@@ -1,12 +1,13 @@
 {
 	"name": "shufflable-array",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Extended javascript native Array to add a shuffle() method.",
 	"keywords": [
 		"Array",
 		"array",
 		"[]",
-		"shuffle"
+		"shuffle",
+		"safe"
 	],
 	"repository": {
 		"type": "git",
