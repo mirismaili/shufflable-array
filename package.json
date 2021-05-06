@@ -1,13 +1,17 @@
 {
 	"name": "shufflable-array",
-	"version": "1.0.0",
-	"description": "Extended javascript native Array to add a shuffle() method.",
+	"version": "1.0.8",
+	"description": "Extended javascript native Array with an additional shuffle() method",
 	"keywords": [
 		"Array",
-		"array",
 		"[]",
 		"shuffle",
-		"safe"
+		"shufflable",
+		"shuffleable",
+		"safe",
+		"native-array",
+		"builtin-array",
+		"built-in-array"
 	],
 	"repository": {
 		"type": "git",
@@ -16,9 +20,12 @@
 	"license": "MIT",
 	"author": "S. Mahdi Mir-Ismaili <s.m.mirismaili@gmail.com>",
 	"type": "module",
-	"main": "main.js",
+	"main": "src/main.js",
+	"files": [
+		"src"
+	],
 	"scripts": {
-		"start": "node main.js",
+		"start": "node src/main.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies": {},

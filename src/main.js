@@ -8,7 +8,8 @@
  */
 export default class ShufflableArray extends Array {
 	/**
-	 * Shuffle (MODIFY) myself and return myself
+	 * Shuffle (MODIFY) the array and return it (myself)!
+	 * <br>
 	 * Based on this answer: {@link https://stackoverflow.com/a/12646864/5318303}
 	 * @returns {ShufflableArray}
 	 */

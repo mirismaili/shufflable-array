@@ -1,6 +1,6 @@
 # Shufflable-Array
 
-> Extended javascript native `Array` to add a `shuffle()` method.
+> Extended javascript native `Array` with an additional `shuffle()` method
 
 This doesn't modify `Array.prototype`.
 
@@ -32,7 +32,7 @@ const shufflableArray = new ShufflableArray(1, 2, 3, 4, 5)
 
 console.log(shufflableArray instanceof Array) // => true
 
-shufflableArray.shuffle()
+shufflableArray.shuffle() // => Ex. [ 5, 1, 4, 3, 2 ]
 ```
 
 ## Example
