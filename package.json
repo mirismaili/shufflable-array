@@ -1,0 +1,28 @@
+{
+	"name": "shufflable-array",
+	"version": "0.0.0",
+	"description": "Extended javascript native Array to add a shuffle() method.",
+	"keywords": [
+		"Array",
+		"array",
+		"[]",
+		"shuffle"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mirismaili/shufflable-array"
+	},
+	"license": "MIT",
+	"author": "S. Mahdi Mir-Ismaili <s.m.mirismaili@gmail.com>",
+	"type": "module",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {},
+	"devDependencies": {},
+	"engines": {
+		"node": ">=14"
+	}
+}
