@@ -1,8 +1,9 @@
 # Shufflable-Array
 
-> Extended javascript native `Array` with an additional `shuffle()` method
-
-This doesn't modify `Array.prototype`.
+> Extended javascript native `Array` (`[]`) with an additional 
+> (**[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**) `shuffle()` method
+> 
+> ***This doesn't modify `Array.prototype`.***
 
 [![npm (scoped)](https://img.shields.io/npm/v/shufflable-array.svg)](https://npmjs.com/package/shufflable-array)
 [![install size](https://packagephobia.now.sh/badge?p=shufflable-array)](https://packagephobia.now.sh/result?p=shufflable-array)

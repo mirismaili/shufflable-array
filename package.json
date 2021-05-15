@@ -1,7 +1,7 @@
 {
 	"name": "shufflable-array",
-	"version": "1.0.8",
-	"description": "Extended javascript native Array with an additional shuffle() method",
+	"version": "1.0.9",
+	"description": "Extended javascript native Array with an additional (in-place) shuffle() method",
 	"keywords": [
 		"Array",
 		"[]",

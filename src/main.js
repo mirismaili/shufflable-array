@@ -8,7 +8,8 @@
  */
 export default class ShufflableArray extends Array {
 	/**
-	 * Shuffle (MODIFY) the array and return it (myself)!
+	 * Shuffle the array {@link https://en.wikipedia.org/wiki/In-place_algorithm in-place} and returns *the shuffled 
+	 * array (`this`)*.
 	 * <br>
 	 * Based on this answer: {@link https://stackoverflow.com/a/12646864/5318303}
 	 * @returns {ShufflableArray}
